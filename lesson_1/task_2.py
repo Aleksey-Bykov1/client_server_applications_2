@@ -4,8 +4,7 @@
 По результатам проверки должно выводиться соответствующее сообщение.
 """
 
-# from task_1 import check_is_ipaddress, host_ping
-from task_1_thread import check_is_ipaddress, host_ping
+from task_1 import check_is_ipaddress, host_ping
 
 
 def host_range_ping(get_list=False):
