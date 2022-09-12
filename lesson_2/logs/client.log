@@ -1,0 +1,4 @@
+2022-09-12 16:11:50,189 CRITICAL config_client_log.py Test critical event
+2022-09-12 16:11:50,190 ERROR config_client_log.py Test error ivent
+2022-09-12 16:11:50,190 DEBUG config_client_log.py Test debug ivent
+2022-09-12 16:11:50,190 INFO config_client_log.py Test info ivent
